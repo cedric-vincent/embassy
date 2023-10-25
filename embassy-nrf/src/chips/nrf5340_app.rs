@@ -247,6 +247,9 @@ embassy_hal_internal::peripherals! {
     // NVMC
     NVMC,
 
+    // NFC
+    NFCT,
+
     // UARTE, TWI & SPI
     SERIAL0,
     SERIAL1,
