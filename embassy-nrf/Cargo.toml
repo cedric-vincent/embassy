@@ -136,7 +136,7 @@ embedded-hal-async = { version = "1.0" }
 embedded-io = { version = "0.6.0" }
 embedded-io-async = { version = "0.6.1" }
 
-nrf-pac = { git = "https://github.com/embassy-rs/nrf-pac", rev = "875a29629cc1c87aae00cfea647a956b3807d8be" }
+nrf-pac = { git = "https://github.com/embassy-rs/nrf-pac", rev = "f37e86a6c79ab745ccd308b1f16973bf57b8bc82" }
 
 defmt = { version = "0.3", optional = true }
 bitflags = "2.4.2"
